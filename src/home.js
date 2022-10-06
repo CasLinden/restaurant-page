@@ -20,7 +20,7 @@ function loadHome (){
     hours();
 
     function location() {
-        let location = createItem('location', 'Location', 'Shinjuku Station \r\n West Exit \r\n \r\n Nishi-shinjuku \r\n 99-02-09 \r\n\ NOT A REAL RESTAURANT (yet)')
+        let location = createItem('location', 'Location', 'Shinjuku Station \r\n West Exit \r\n Omoide-Yokocho \r\n \r\n Nishi-shinjuku \r\n 99-02-09 \r\n\ NOT A REAL RESTAURANT (yet)')
         content.appendChild(location);
     }
     location()

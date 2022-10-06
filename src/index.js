@@ -7,7 +7,6 @@ import {loadContact} from './contact';
 mozaic()
 loadHome()
 
-
 function chargeButtons () {
     let currentPage = 'home'
 
